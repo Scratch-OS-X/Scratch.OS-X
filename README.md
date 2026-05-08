@@ -7,6 +7,9 @@ Rendez-vous [ici](https://github.com/Scratch-OS-X/Scratch.OS-X/wiki/Suggestions)
 ## S.OS X Studio
 [S.OS X Studio on scratch](https://scratch.mit.edu/studios/51261192/)
 
+## Comment contribuer ?
+Créez un projet scratch avec l'application que vous souhaitez ajouter et donnez moi le lien du projet.
+
 ## Infos :
 
 ### Applications :
