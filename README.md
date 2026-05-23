@@ -3,9 +3,10 @@
 ## Description
 Scratch.OS X (S.OS X) est une chaine de projets scratch imitant des "OS" tel que Mac ou Windows mais avec le style de scratch.
 ## Suggestions
-Rendez-vous [ici](https://github.com/Scratch-OS-X/Scratch.OS-X/issues) pour faire des suggestions.
-## S.OS X Studio
-[S.OS X Studio on scratch](https://scratch.mit.edu/studios/51261192/)
+Rendez-vous [ici](https://scratch.mit.edu/studios/51261192/comments) ou sur [mon profil scratch](https://scratch.mit.edu/users/Scratch_2_0_2_4/) ou encore ur le nouveau [compte scratch officiel de S.OS X](https://scratch.mit.edu/users/S_OS-X/) pour faire des suggestions.
+## S.OS X Studio officiel & compte officiel
+[S.OS X Studio officiel on Scratch](https://scratch.mit.edu/studios/51261192/)
+[S.OS X Compte officiel on Scratch](https://scratch.mit.edu/users/S_OS-X/)
 
 ## Comment contribuer ?
 Créez un projet scratch avec l'application que vous souhaitez ajouter et donnez moi le lien du projet.
