@@ -8,9 +8,6 @@ Découvrez [comment contribuer](https://github.com/Scratch-OS-X/Scratch.OS-X/tre
 [S.OS X Studio officiel on Scratch](https://scratch.mit.edu/studios/51261192/)
 [S.OS X Compte officiel on Scratch](https://scratch.mit.edu/users/S_OS-X/)
 
-## Comment contribuer ?
-Créez un projet scratch avec l'application que vous souhaitez ajouter et donnez moi le lien du projet.
-
 ## Infos :
 
 ### Applications :
