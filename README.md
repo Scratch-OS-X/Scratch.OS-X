@@ -30,13 +30,17 @@ Créez un projet scratch avec l'application que vous souhaitez ajouter et donnez
 • *Terra IA*
 
 ### Crédits :
-[@MohamedAminestory](https://scratch.mit.edu/users/MohamedAminestory/"MohamedAminestory/")
+[@Scratch_2_0_2_4](https://scratch.mit.edu/users/Scratch_2_0_2_4)
 
-[@Samoht1616](https://scratch.mit.edu/users/samoht1616 "@samoht1616")
+[@MohamedAminestory](https://scratch.mit.edu/users/MohamedAminestory/)
 
-[@Qucchia](https://scratch.mit.edu/users/qucchia/ "@qucchia")
+[@Samoht1616](https://scratch.mit.edu/users/samoht1616/)
 
-[@Lu_Li_49](https://scratch.mit.edu/users/Lu_Li_49 "Lu_Li_49")
+[@Qucchia](https://scratch.mit.edu/users/qucchia/)
+
+[@Lu_Li_49](https://scratch.mit.edu/users/Lu_Li_49/)
+
+[@MarsChompsVenus](https://scratch.mit.edu/users/MarsChompsVenus/)
 <hr>
 
 **© [Scratch_2_0_2_4](https://scratch.mit.edu/users/Scratch_2_0_2_4/ "@Scratch_2_0_2_4") for the [Scratch.OS X studio](https://scratch.mit.edu/studios/51261192)**
