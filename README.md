@@ -41,6 +41,7 @@ Découvrez [comment contribuer](https://github.com/Scratch-OS-X/Scratch.OS-X/tre
 <hr>
 
 ![certificat](https://u.cubeupload.com/Scratch_2_0_2_4/IMG4576.jpeg)
+<hr>
 
 **© [Scratch_2_0_2_4](https://scratch.mit.edu/users/Scratch_2_0_2_4/ "@Scratch_2_0_2_4") for the [Scratch.OS X studio](https://scratch.mit.edu/studios/51261192)**
 
