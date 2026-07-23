@@ -10,4 +10,4 @@ Pour collaborer, donnez moi (par le biais des liens ci-dessus) le lien de votre 
 <br>
 
 ## Bug
-Pour signaler un bug, dites le directement sur le projet conserné après vous être assurés qu'il n'existait aucune version plus récente.
+Pour signaler un bug, dites le directement sur le projet concerné après vous être assurés qu'il n'existait aucune version plus récente.
